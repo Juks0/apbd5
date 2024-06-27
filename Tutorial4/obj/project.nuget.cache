@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IG1mTZcAMA4+4Q63iq+CuUQtAIit5lfJSL2wzgSKvaOO/B7X8Egh9uzylEKguBY1adCYunMaJBPyG0EvYxa43w==",
+  "dgSpecHash": "36jIbFXJglKBWPUg6zPR0+x/q30sZioPkX8TookUoxAU8vSc5V1VKW1PF20j0of2NpKmKCVLx/4yHxQiOEW65Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kacpe\\Desktop\\Tutorial4\\Tutorial4\\Tutorial4.csproj",
+  "projectFilePath": "C:\\Users\\kacpe\\Documents\\GitHub\\apbd5\\Tutorial4\\Tutorial4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
